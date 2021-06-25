@@ -67,3 +67,7 @@ You should include clear documentation on how to use your API.
 ### Exercise 3:
 
 Write a couple of paragraphs on how you might extend the OWL modelling and content to build a knowledge base of individual wines that would be useful to consumers trying to decide what wine to buy.
+
+## Submitting your completed test
+
+Please make a *private* fork of this repo & share it with @dosumis 
