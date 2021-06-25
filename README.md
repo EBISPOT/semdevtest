@@ -1,5 +1,12 @@
 # Semantic Dev Tech Test  [![Build Status](https://travis-ci.com/EBISPOT/semantic_dev_tech_test.svg?branch=main)](https://travis-ci.com/EBISPOT/semantic_dev_tech_test)
 
+This test requires background knowledge of Web Ontology Language (OWL), RDF and/or Cypher. The following background reading may be useful.
+
+* [OWL primer](https://www.w3.org/TR/owl2-primer/)
+* [Sparql primer](https://docs.data.world/tutorials/sparql/)
+* [Intro to Neo4J Cypher](https://neo4j.com/docs/getting-started/current/cypher-intro/patterns-in-practice/#cypher-intro-patterns-in-practice-matching-patterns)
+
+
 Technical test for semantic dev.
 
 This GitHub Repository has:
@@ -11,7 +18,7 @@ This GitHub Repository has:
 
 ### Exercise 1:
 
-Explore the OWL file in Protege and run a reasoner.
+Explore the OWL file in [Protege](http://protegeproject.github.io/protege/installation/) and run a reasoner.
 
 ![image](https://user-images.githubusercontent.com/112839/97699007-60bd2f00-1aa1-11eb-8e1a-ab8a5b1c98ac.png)
 
